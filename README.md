@@ -10,7 +10,7 @@
 <p align="left">
   🎓 I'm a 3rd-year student at the Vitebsk Branch of BSAС, specializing in Telecommunication Networks Software. <br>
   🧠 Passionate about <strong>Linux</strong>, <strong>PostgreSQL</strong> databases, and automating tasks with <strong>Bash</strong>. <br>
-  🌱 Actively learning <strong>Git</strong>, <strong>Docker</strong> fundamentals, and <strong>Python</strong> basics to pursue a career path in <strong>DevOps</strong> or <strong>Data Engineering</strong>. <br>
+  🌱 Actively learning <strong>Linux</strong> and <strong>Python</strong> basics to pursue a career path in <strong>DevOps</strong> or <strong>Data Engineering</strong>. <br>
   🌐 Seeking internship opportunities (Remote) to apply and expand my knowledge in a real-world environment.
 </p>
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Palina Mialyantsava</h1>
-<h3 align="center">Student | Aspiring DevOps/Data Engineer | C# & Unity Developer</h3>
+<h3 align="center">Student</h3>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ox1s&theme=radical&hide_border=true" alt="GitHub Streak" />&nbsp;

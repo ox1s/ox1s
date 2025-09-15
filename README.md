@@ -8,8 +8,7 @@
 ---
 
 <p align="left">
-  🎓 I'm a 3rd-year student at the Vitebsk Branch of BSAС, specializing in Telecommunication Networks Software. <br>
-  🌱 Actively learning <strong>Linux</strong> and <strong>Python</strong> to pursue a career path in <strong>DevOps</strong> or <strong>Data Engineering</strong>. <br>
+  🎓 I'm a 4rd-year student at the Vitebsk Branch of BSAС, specializing in Telecommunication Networks Software. <br>
 </p>
 
 ---

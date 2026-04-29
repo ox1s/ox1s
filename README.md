@@ -4,6 +4,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ox1s&theme=radical&hide_border=true" alt="GitHub Streak" />&nbsp;
 </p>
 
+
+<p align="center">
+  <img src="https://backend.codecrafters.io/progress/redis/d7616c77-b488-4c3c-b30f-a174df7abe2f" width = 300px/> 
+</p>
+
 ---
 
 ### 🛠️ Languages and Tools:
